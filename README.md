@@ -1,0 +1,2 @@
+# geophy
+geophysics homework
